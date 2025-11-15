@@ -19,3 +19,7 @@ Documentation pour le dapnet: https://hampager.de/dokuwiki/doku.php
 Vous souhaitez vous équiper d'un Pager? voici la meilleur adresse: https://www.bi7jta.org/
 
 Version finale et stable du script by F4IGV 11/2025
+
+exemple de log généré:
+
+<img width="1187" height="618" alt="screen_log_orage_solair" src="https://github.com/user-attachments/assets/6145674f-fb7d-43d4-b057-12181bfd4b6e" />
