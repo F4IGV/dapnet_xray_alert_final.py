@@ -5,7 +5,8 @@ Pré-requis:
 
 Installer python sur votre ordinateur sous windows. Assurer vous ensuite d'avoir REQUESTS installés
 
-Version python stable — Script python permettant d'envoyer des alertes sur le dapnet en cas de tempête solaire. seuil de rayon X configurable.
+Version python stable — Script python permettant d'envoyer des alertes sur le dapnet en cas de tempête solaire. Seuil de rayon X pour le declenchement de l'alerte configurable.
+Le Script envoie une message quand le seuil de rayon X configurer est dépasser. Si pas de changement pas de message envoyé. Si le flux de rayon X repasse en dessous du seuil le scrpit envoye un message pour annoncé la fin de l'evenement.
 
 Dans les constantes: Vous devez modifier les entrées "DAPNET_USER" et "DAPNET_PASS" avec vos identifiant DAPNET. Dans "CALLSIGNS" vous devez entrer les indicatifs des om's a qui seront envoyés les messages en pocsag Dans "TX_GROUP" vous devez renseigner sur quel groupe d'emetteurs seront envoyés les messages en pocsag
 
