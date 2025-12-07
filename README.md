@@ -6,6 +6,9 @@ This Python script monitors the real-time X-Ray flux from the HamQSL XML feed an
 
 It is ideal for amateur radio operators who want to be notified of solar activity spikes directly on their DAPNET pagers.
 
+This script can be automated on Windows using Task Scheduler together with the `.bat` file included in this repository.  
+The user must edit the `.bat` file and specify the full path to the `.py` script so automation works correctly.
+
 ---
 
 ## Features
