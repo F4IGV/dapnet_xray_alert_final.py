@@ -73,7 +73,7 @@ DAPNET_TRANSMITTER_GROUP = "f-53"
 Set the X-Ray alert threshold:
 
 ```python
-XRAY_THRESHOLD = "M5.0"
+XRAY_THRESHOLD = "M1.0"
 ```
 
 HamQSL XML feed URL:
