@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 
 HAMQSL_XML_URL = "https://www.hamqsl.com/solarxml.php"
 
-XRAY_THRESHOLD = "M5.0"
+XRAY_THRESHOLD = "M1.0"
 
 STATE_FILE = "xray_alert_state.txt"
 START_FILE = "xray_alert_start.txt"
@@ -208,4 +208,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
